@@ -1,0 +1,1 @@
+# practice-for-sprint-15-react-redux-pet-rating
